@@ -1,2 +1,2 @@
 # beginner_tutorials
-Made for ROS by following the tutorials
+A ROS package that contains the demo files for basic understanding.
